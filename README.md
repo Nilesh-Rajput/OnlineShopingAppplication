@@ -4,3 +4,6 @@
 
 <h1>Introduction</h1>
 <p>This project is based on Online Shopping App using Java, Spring, SpringBoot, MySQL and Hibernate. There are 6 model classes in the project User, Customer, Address, Product, Cart and Order. The main goal of this project is to create a series of backend API’s so that the user can access the functionalities of the various types of functions of the models just like the functionalities one can get while shopping from any online website.</p>
+
+
+![ER Diagram](https://github.com/Nilesh-Rajput/OnlineShopingAppplication/assets/120545385/cca1157e-bd41-4556-8b49-884eb97f4174)
