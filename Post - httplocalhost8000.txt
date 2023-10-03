@@ -1,0 +1,25 @@
+Post - http://localhost:8000/registration
+
+body - {
+    "name": "Nilesh",
+    "mobile": "7896178969",
+    "password": "Swapnil@3389",
+    "userId": 1
+}
+
+Status - 201 Created
+
+
+
+=========================================
+
+Post - http://localhost:8000/login
+
+{
+"mobileNo":"7896178969",
+"password":"Swapnil@3389"
+}
+
+CurrentUserSession [Id=1, UserId=1, uniqueId=PZkkKr, time=2023-10-02T15:20:44.489370100]
+
+202 Accepted
